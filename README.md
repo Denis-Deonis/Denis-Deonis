@@ -4,10 +4,10 @@
 
 ## 📂 Мои проекты
 ###  🗂 Проекты по курсу web-разработчик Яндекс.Практикум
-* Спринт 1-2 - [How to learn](https://github.com/Denis-Deonis/how-to-learn) 
-** ✅ [Проектная работа на сайте GitHub Pages](https://denis-deonis.github.io/how-to-learn/)
-* Спринт 3 - [Russian travel](https://github.com/Denis-Deonis/russian-travel) 
-** ✅ [Проектная работа на сайте GitHub Pages](https://denis-deonis.github.io/russian-travel/)
+* Спринт 1-2  [How to learn](https://github.com/Denis-Deonis/how-to-learn) <br/>
+ ✅ [Проектная работа на сайте GitHub Pages](https://denis-deonis.github.io/how-to-learn/)
+* Спринт 3  [Russian travel](https://github.com/Denis-Deonis/russian-travel) <br/>
+ ✅ [Проектная работа на сайте GitHub Pages](https://denis-deonis.github.io/russian-travel/)
 
 
 
