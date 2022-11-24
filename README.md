@@ -1,3 +1,5 @@
+<div align="center">
+
 ##  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> Всем привет
 # <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"  width="40" height="40"/> Меня зовут Денис, я Веб-разработчик 
 
@@ -48,7 +50,9 @@
 [![Adobe Indesign](https://user-images.githubusercontent.com/86494748/128635708-74769ad9-bc27-45a6-9f39-b122718ea2fc.png)](https://www.adobe.com/ru/products/indesign.html)
 -->
 
-<!--
+</div>
+
+                                                                                              <!--
 **Denis-Deonis/Denis-Deonis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
