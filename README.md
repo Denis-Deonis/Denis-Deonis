@@ -1,5 +1,5 @@
-## Всем привет <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-# Меня зовут Денис, я Веб-разработчик <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"  width="40" height="40"/>
+##  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> Всем привет
+# <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"  width="40" height="40"/> Меня зовут Денис, я Веб-разработчик 
 
 <!-- ## 📂 Мои проекты  -->
 
