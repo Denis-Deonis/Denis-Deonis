@@ -62,6 +62,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Denis-Deonis)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ![](https://komarev.com/ghpvc/?username=Denis-Deonis)
 
 
