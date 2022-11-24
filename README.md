@@ -1,6 +1,6 @@
 ## Всем привет <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 # Меня зовут Денис, я Веб-разработчик <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"  width="40" height="40"/>
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="700" height="400"/>
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
 
 ## 📂 Мои проекты
 ###  🗂 Проекты по курсу web-разработчик Яндекс.Практикум
@@ -11,7 +11,7 @@
 
 
 
-## Система управления версиями
+## :sparkler: Система управления версиями
 
 * ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 * ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
