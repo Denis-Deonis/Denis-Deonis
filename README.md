@@ -6,6 +6,8 @@
 <!-- ## 📂 Мои проекты  -->
 
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
+ 
+ </div>
 
 ##  🗂 Проекты по курсу web-разработчик Яндекс.Практикум
 
@@ -50,9 +52,9 @@
 [![Adobe Indesign](https://user-images.githubusercontent.com/86494748/128635708-74769ad9-bc27-45a6-9f39-b122718ea2fc.png)](https://www.adobe.com/ru/products/indesign.html)
 -->
 
-</div>
 
-                                                                                              <!--
+
+ <!--
 **Denis-Deonis/Denis-Deonis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
