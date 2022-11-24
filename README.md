@@ -3,7 +3,7 @@
 ##  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> Всем привет
 # <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"  width="40" height="40"/> Меня зовут Денис, я Веб-разработчик 
 
-<!-- ## 📂 Мои проекты  -->
+<!-- ## 📂 Мои проекты 🧩  -->
 
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
  
@@ -11,9 +11,9 @@
 
 ##  🗂 Проекты по курсу web-разработчик Яндекс.Практикум
 
- 🧩 Спринт 1-2  [How to learn](https://github.com/Denis-Deonis/how-to-learn) <br/>
+ * <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Спринт 1-2  [How to learn](https://github.com/Denis-Deonis/how-to-learn) <br/>
  ✅ [Проектная работа на сайте GitHub Pages](https://denis-deonis.github.io/how-to-learn/)
- 🧩 Спринт 3  [Russian travel](https://github.com/Denis-Deonis/russian-travel) <br/>
+* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Спринт 3  [Russian travel](https://github.com/Denis-Deonis/russian-travel) <br/>
  ✅ [Проектная работа на сайте GitHub Pages](https://denis-deonis.github.io/russian-travel/)
 
 
