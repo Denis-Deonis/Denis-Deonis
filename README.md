@@ -53,6 +53,16 @@
 -->
 
 
+##  📈 Статистика
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=Denis-Deonis&show_icons=true" height="140px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-Deonis&layout=compact" height="140px"/>
+
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-Deonis&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+
 
  <!--
 **Denis-Deonis/Denis-Deonis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
