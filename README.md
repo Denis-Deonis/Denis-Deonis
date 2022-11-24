@@ -18,6 +18,20 @@
 <!-- [![Parcel](https://user-images.githubusercontent.com/86494748/148681946-408f9305-d344-497a-9b30-de59803e4c31.png)](https://parceljs.org/) -->
 
 
+### 🎨 Графические редакторы:
+[![Adobe Photoshop](https://user-images.githubusercontent.com/86494748/128635710-d46970f1-a171-461d-acd8-f4d8aa5c01e8.png)](https://www.adobe.com/ru/products/photoshop.html)
+[![Figma](https://user-images.githubusercontent.com/86494748/148681763-cc9b76df-7a91-4908-84bb-7da19b860c74.png)](https://www.figma.com/)
+[![Adobe Illustrator](https://user-images.githubusercontent.com/86494748/128635707-2d15d442-e4bc-48c9-b657-6ff223d3fe37.png)](https://www.adobe.com/ru/products/illustrator.html)
+[![Adobe Premiere Pro](https://user-images.githubusercontent.com/86494748/128635709-d0bc6621-8efb-41ec-b363-91e73a85d1ab.png)](https://www.adobe.com/ru/products/premiere.html)
+[![Adobe After Effects](https://user-images.githubusercontent.com/86494748/128635706-e282caad-9484-4245-bc5c-16a2cfcfe3e8.png)](https://www.adobe.com/ru/products/aftereffects.html)
+
+<!--
+[![Adobe XD](https://user-images.githubusercontent.com/86494748/128685319-41947758-4068-42c4-af18-e026adeaee0e.png)](https://www.adobe.com/ru/products/xd.html)
+[![Adobe Bridge](https://user-images.githubusercontent.com/86494748/128635702-771f0b4f-95df-4203-ba4f-9d188eef32f8.png)](https://www.adobe.com/ru/products/bridge.html)
+[![Adobe Lightroom](https://user-images.githubusercontent.com/86494748/128635705-23fafa8b-d302-40f7-8853-54105cdd6842.png)](https://www.adobe.com/ru/products/photoshop-lightroom.html)
+[![Adobe Indesign](https://user-images.githubusercontent.com/86494748/128635708-74769ad9-bc27-45a6-9f39-b122718ea2fc.png)](https://www.adobe.com/ru/products/indesign.html)
+-->
+
 <!--
 **Denis-Deonis/Denis-Deonis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
