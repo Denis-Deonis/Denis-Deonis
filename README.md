@@ -2,9 +2,22 @@
 # Меня зовут Денис, я Веб-разработчик <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"  width="40" height="40"/>
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="700" height="400"/>
 
-### 🛠 Языки и Технологии
+## 📂 Мои проекты
+###  🗂 Проекты по курсу web-разработчик Яндекс.Практикум
+* Спринт 1-2 - [How to learn](https://github.com/Denis-Deonis/how-to-learn)
+✅ [Проектная работа на сайте GitHub Pages](https://denis-deonis.github.io/how-to-learn/)
+* Спринт 3 - [Russian travel](https://github.com/Denis-Deonis/russian-travel)
+✅ [Проектная работа на сайте GitHub Pages](https://denis-deonis.github.io/russian-travel/)
 
-[![Git](https://user-images.githubusercontent.com/86494748/128634186-d1b69fc3-322b-4344-89d0-615670eaaa93.png)](https://git-scm.com/)
+
+
+## Система управления версиями
+
+* ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+* ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+## 🛠 Языки и Технологии
+
 [![HTML5](https://user-images.githubusercontent.com/86494748/128634189-e6ded326-aeb9-4f8d-8508-f0fcd7f1d891.png)](https://html5book.ru/html-html5/)
 [![CSS3](https://user-images.githubusercontent.com/86494748/128634188-71178ce2-89cf-4283-9f5a-87ff5d3b4854.png)](https://html5book.ru/css-css3/)
 [![JavaScript](https://user-images.githubusercontent.com/86494748/148681759-aea31033-3b1c-4687-a0e7-e5faeb06bf50.png)](https://262.ecma-international.org/)
@@ -18,7 +31,7 @@
 <!-- [![Parcel](https://user-images.githubusercontent.com/86494748/148681946-408f9305-d344-497a-9b30-de59803e4c31.png)](https://parceljs.org/) -->
 
 
-### 🎨 Графические редакторы:
+## 🎨 Графические редакторы
 [![Adobe Photoshop](https://user-images.githubusercontent.com/86494748/128635710-d46970f1-a171-461d-acd8-f4d8aa5c01e8.png)](https://www.adobe.com/ru/products/photoshop.html)
 [![Figma](https://user-images.githubusercontent.com/86494748/148681763-cc9b76df-7a91-4908-84bb-7da19b860c74.png)](https://www.figma.com/)
 [![Adobe Illustrator](https://user-images.githubusercontent.com/86494748/128635707-2d15d442-e4bc-48c9-b657-6ff223d3fe37.png)](https://www.adobe.com/ru/products/illustrator.html)
