@@ -5,14 +5,14 @@
 
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
 ##  🗂 Проекты по курсу web-разработчик Яндекс.Практикум
-### 🧩 Спринт 1-2  [How to learn](https://github.com/Denis-Deonis/how-to-learn) <br/>
+* 🧩 Спринт 1-2  [How to learn](https://github.com/Denis-Deonis/how-to-learn) <br/>
  ✅ [Проектная работа на сайте GitHub Pages](https://denis-deonis.github.io/how-to-learn/)
-### 🧩 Спринт 3  [Russian travel](https://github.com/Denis-Deonis/russian-travel) <br/>
+* 🧩 Спринт 3  [Russian travel](https://github.com/Denis-Deonis/russian-travel) <br/>
  ✅ [Проектная работа на сайте GitHub Pages](https://denis-deonis.github.io/russian-travel/)
 
 
 
-## :sparkler: 🌲 Система управления версиями
+## :sparkler: Система управления версиями
 
 * ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 * ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
