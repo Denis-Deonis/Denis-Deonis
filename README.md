@@ -1,6 +1,5 @@
-## Всем привет 👋
-# Меня зовут Денис, я Веб-разработчик <iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="40" height="40" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
-
+## Всем привет <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+# Меня зовут Денис, я Веб-разработчик <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"  width="40" height="40"/>
 <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="700" height="400"/>
 
 
