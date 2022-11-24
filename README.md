@@ -11,9 +11,9 @@
 
 ##  🗂 Проекты по курсу web-разработчик Яндекс.Практикум
 
- * <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Спринт 1, Спринт 2 -- [How to learn](https://github.com/Denis-Deonis/how-to-learn) <br/>
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Спринт 1, Спринт 2 -- [How to learn](https://github.com/Denis-Deonis/how-to-learn) <br/>
  ✅   [Проектная работа на сайте GitHub Pages](https://denis-deonis.github.io/how-to-learn/)
-* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Спринт 3 -- [Russian travel](https://github.com/Denis-Deonis/russian-travel) <br/>
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Спринт 3 -- [Russian travel](https://github.com/Denis-Deonis/russian-travel) <br/>
  ✅   [Проектная работа на сайте GitHub Pages](https://denis-deonis.github.io/russian-travel/)
 
 
