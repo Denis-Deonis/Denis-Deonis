@@ -1,7 +1,7 @@
 ## Всем привет 👋
-# Меня зовут Денис, я Веб-разработчик <iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="40" height="40" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+# Меня зовут Денис, я Веб-разработчик <iframe src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="40" height="40" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u">via GIPHY</a></p>
 
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="700" height="400"/>
 
 
 
