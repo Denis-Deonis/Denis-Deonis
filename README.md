@@ -59,6 +59,12 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Denis-Deonis&show_icons=true" height="140px"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-Deonis&layout=compact" height="140px"/>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Denis-Deonis)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+![](https://komarev.com/ghpvc/?username=Denis-Deonis)
+
+
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-Deonis&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
