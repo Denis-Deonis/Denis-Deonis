@@ -16,7 +16,7 @@
 * ✅   [Проектная работа на сайте GitHub Pages](https://denis-deonis.github.io/how-to-learn/)
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Спринт 3 -- [Russian travel](https://github.com/Denis-Deonis/russian-travel) 
 * ✅   [Проектная работа на сайте GitHub Pages](https://denis-deonis.github.io/russian-travel/)
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Спринт 4, Спринт 5, Спринт 6 -- [Mesto](https://github.com/Denis-Deonis/mesto) 
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Спринт 4 - Спринт 9 -- [Mesto](https://github.com/Denis-Deonis/mesto) 
 * ✅   [Проектная работа на сайте GitHub Pages](https://denis-deonis.github.io/mesto/)
 
 
