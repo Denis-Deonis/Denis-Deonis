@@ -20,6 +20,8 @@
 * ✅   [Проектная работа на сайте GitHub Pages](https://denis-deonis.github.io/mesto/)
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Спринт 10 - Спринт 11 -- [Mesto-React](https://github.com/Denis-Deonis/mesto-react) 
 * ✅   [Проектная работа на сайте GitHub Pages](https://denis-deonis.github.io/mesto-react/)
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Спринт 12 -- [Mesto-React-Auth](https://github.com/Denis-Deonis/react-mesto-auth) 
+* ✅   [Проектная работа на сайте GitHub Pages](https://denis-deonis.github.io/react-mesto-auth/#/sign-in)
 
 ## 🕓 Система управления версиями
 
