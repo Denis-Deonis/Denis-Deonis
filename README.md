@@ -71,6 +71,10 @@
 ![](https://komarev.com/ghpvc/?username=Denis-Deonis)
 
 
+[![codewars](https://www.codewars.com/users/Denis-Deonis/badges/large)](https://www.codewars.com/users/Denis-Deonis)   
+
+
+
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-Deonis&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
